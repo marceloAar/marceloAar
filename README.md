@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marceloAar
-- 👀 I’m interested in tecnologia, astronomía,  filosofía. 
+- 👀 I’m interested in tecnologia, astronomía,  musica y filosofía. 
 - 🌱 I’m currently learning JAVA Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
