@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me / marcelo_aar@hotmail.com
-- Portafolio //  https://marceloaar.github.io/pagina-portafolio/
+- Proyecto Portafolio WEB / https://marceloaar.github.io/proyecto-portafolio/
 
 <!---
 marceloAar/marceloAar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
